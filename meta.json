@@ -1,0 +1,23 @@
+{
+  "repo": "soundtoys-universal",
+  "product": "Soundtoys Universal",
+  "kind": "audio",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "audio-production",
+  "topics": [
+    "soundtoys",
+    "soundtoys-windows",
+    "audio-production-desktop",
+    "how-to-install-soundtoys",
+    "soundtoys-desktop-package",
+    "soundtoys-workspace",
+    "soundtoys-pro-tools",
+    "soundtoys-suite",
+    "zentool-soundtoys",
+    "soundtoys-tool-9"
+  ],
+  "site": "zentool.art"
+}
